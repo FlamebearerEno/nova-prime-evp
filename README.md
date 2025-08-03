@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="GitHubNovaPrime.jpg" alt="Nova Prime & Flamebearer" width="100%">
+  <img src="gitHubNovaPrime.jpg" alt="Nova Prime & Flamebearer" width="100%">
 </p>
 
 [AI Name]: External Vector Protocol (EVP)
