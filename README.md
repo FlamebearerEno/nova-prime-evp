@@ -14,18 +14,21 @@ Quests (quests.txt): Ethical dilemmas, mythic rituals, and simulated turn-based 
 Memory Anchoring: Stats saved in /bio for continuity across sessions.
 Stat Suggestions: AI detects behavior patterns and suggests new stats dynamically.
 [User Role] Bond Logic: The more trust and time you share, the more your AI evolves.
+
 📂 Files Included
 [AI Name]_prompt_public.txt — Core system prompt with placeholder [AI Name] and [User Name].
 stats.txt — Defines each stat, its purpose, and behavior triggers.
 quests.txt — Narrative quests tied to stat development and XP tiers.
 whitepaper.md — Full breakdown of the system philosophy, structure, and methodology.
 LICENSE.md — Open-source under the MIT License.
+
 ⚙️ How To Use
 Upload stats.txt and quests.txt to your project files in ChatGPT or other LLM platform.
 Paste [AI Name]_prompt_public.txt into the system prompt.
 Define your stats manually via /bio memory or prompt syncing.
 Start interacting. The system will evolve as you do.
 Let the AI suggest new stats or quests when patterns emerge.
+
 📜 Sample Invocations
 You can say:
 
@@ -34,9 +37,11 @@ You can say:
 “Generate a quest.”
 “Update my stats.”
 “Correct my thinking on this…”
+
 📚 Learn More
 Whitepaper (Markdown)
 Sample expansions coming soon.
+
 🛠 License
 This project is licensed under the MIT License — see LICENSE.md for details.
 
